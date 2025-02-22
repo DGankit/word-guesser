@@ -1,4 +1,4 @@
-let wordList = [
+const wordList = [
     {
         "word": "python",
         "hint": "a programming language"
